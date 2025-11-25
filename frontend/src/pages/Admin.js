@@ -7,7 +7,6 @@ const Admin = () => {
   const [projects, setProjects] = useState([]);
   const [posts, setPosts] = useState([]);
   const [loading, setLoading] = useState(true);
-  const [error, setError] = useState(null);
 
   // Form states
   const [projectForm, setProjectForm] = useState({
