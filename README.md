@@ -4,11 +4,13 @@ A RESTful API built with Node.js, Express, and MongoDB for managing portfolio pr
 
 ## 🌐 Live Deployment
 
-**Live Backend API URL:** https://portfolio-blog-47o1zr9pi-asdosadkkoas-projects.vercel.app
+**Live Backend API URL:** https://backend-alpha-green-49.vercel.app
 
-**API Base:** https://portfolio-blog-47o1zr9pi-asdosadkkoas-projects.vercel.app/api
+**API Base:** https://backend-alpha-green-49.vercel.app/api
 
-**Health Check:** https://portfolio-blog-47o1zr9pi-asdosadkkoas-projects.vercel.app/api/health
+**Health Check:** https://backend-alpha-green-49.vercel.app/api/health
+
+**Live Frontend URL:** https://frontend-alpha-three-48.vercel.app/
 
 **Frontend Repository:** https://github.com/zzsss8836699/fullstack-portfolio-blog
 
@@ -17,7 +19,7 @@ A RESTful API built with Node.js, Express, and MongoDB for managing portfolio pr
 **Assignment:** Backend API (Assignment 1)
 
 **Submission Requirements:**
-1. ✅ Live Backend API URL: https://portfolio-blog-47o1zr9pi-asdosadkkoas-projects.vercel.app
+1. ✅ Live Backend API URL: https://backend-alpha-green-49.vercel.app
 2. ✅ Source Code: https://github.com/zzsss8836699/portfolio-blog-fullstack
 3. ✅ README.md: Complete API documentation (see below)
 
